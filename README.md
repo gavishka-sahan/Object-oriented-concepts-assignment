@@ -6,7 +6,7 @@ goal:
 Team:
 - 4 members
 
-Responsibilities:
+individual contribution:
 - Customer and staff classes
 
 Objectives:
