@@ -1,4 +1,4 @@
-# Object-oriented-concepts-assignment
+# Automatic parking system using C
 
 goal:
 - develop automatic parking system using C language
